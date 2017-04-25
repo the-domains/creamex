@@ -46,7 +46,6 @@ content:
       description: >-
         This is "1500x589" by Karla Lopez on Vimeo, the home for high quality
         videos and the people who love them.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/214741946'
@@ -78,6 +77,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://vimeo.com/214741946'
       title: 1500x589
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5081c09-e1f3-4105-a09b-467ae4acb5a4.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5081c09-e1f3-4105-a09b-467ae4acb5a4.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
