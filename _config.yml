@@ -1,0 +1,73 @@
+typography_spectrum: 0.033409695606678724
+color:
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.46576617122627795
+  lightness: 0.6489685762207955
+  saturation: 0.8102100605610758
+  rhythmicContrast: 0.011021452490240335
+layout_spectrum: 0.8611173860263079
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/992def5b-1997-4506-bcb7-63d6470f72c7.png
+name: creamex
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: ¿Quiénes somos?
+    id: 2103a60c-9894-4d3d-8379-1ed4c4b8d998
+    type: content
+title: CREAMEX
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/507d0f28-9b43-46f3-9435-988229cba2cb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/507d0f28-9b43-46f3-9435-988229cba2cb.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Agricultura Artesanal
+purpose:
+  - type: contact
+    url: 'mailto:direccion@creamex.mx'
+    label: Contact us
+  - type: external
+    url: 'https://www.facebook.com/creamex.mx/'
+    label: Facebook
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65804364-877a-4603-96b0-9467d13717e6.png
+url: 'https://creamex.ai/'
+author:
+  name: Karla Lopez
+  email: marloc.karla@newemotion.mx
+analytics:
+  twitter: ''
+opengraph:
+  type: '1851567761777374'
+  appId: creamex.mx
