@@ -1,16 +1,16 @@
-typography_spectrum: 0.033409695606678724
+layout_spectrum: 0.27446732007981384
+typography_spectrum: 0.9827892014523507
 color:
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  brandStrength: 0.46576617122627795
-  lightness: 0.6489685762207955
-  saturation: 0.8102100605610758
-  rhythmicContrast: 0.011021452490240335
-layout_spectrum: 0.8611173860263079
+    - '#FFFFFF'
+    - '#27562A'
+    - '#757333'
+    - '#C3D2C4'
+    - '#47C665'
+  brandStrength: 0.45772910407227974
+  lightness: 0.7857159474253249
+  saturation: 0.9557333943475553
+  rhythmicContrast: 0.9129672539728408
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/992def5b-1997-4506-bcb7-63d6470f72c7.png
 name: creamex
@@ -40,7 +40,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
