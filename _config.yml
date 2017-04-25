@@ -21,10 +21,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: ¿Quiénes somos?
-    id: 2103a60c-9894-4d3d-8379-1ed4c4b8d998
-    type: content
 title: CREAMEX
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
