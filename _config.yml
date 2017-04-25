@@ -62,10 +62,11 @@ purpose:
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/65804364-877a-4603-96b0-9467d13717e6.png
-url: 'https://creamex.ai/'
+url: 'https://thegrid.ai/creamex/'
 author:
   name: Karla Lopez
   email: marloc.karla@newemotion.mx
+  url: 'https://thegrid.ai/creamex/'
 analytics:
   twitter: ''
 opengraph:
