@@ -1,22 +1,9 @@
 ---
 inFeed: true
-description: >-
-  Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe.
-  ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene
-  un exclusivo destilado de Maguey. 
-
-
-  Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura,
-  cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el
-  área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como
-  meta. 
-
-
-  Parte de nuestra producción estrella, Le Catador, es la guía que todo paladar
-  mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. 
-dateModified: '2017-04-26T21:25:01.998Z'
-datePublished: '2017-04-26T21:25:02.785Z'
-title: MEZCALES
+description: Mezcales
+dateModified: '2017-04-26T21:25:41.729Z'
+datePublished: '2017-04-26T21:25:42.262Z'
+title: Mezcal Expertise
 author: []
 publisher: {}
 via: {}
@@ -28,6 +15,7 @@ url: uno-mas-pa-ti/index.html
 _type: Article
 
 ---
+Mezcales
 ![Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe. ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene un exclusivo destilado de Maguey. 
 
 Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura, cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como meta. 
@@ -41,5 +29,3 @@ Seguir el MUY mexicano espíritu de la sed de la mala, esa que evoca a una fiest
 Esos poderosos momentos, son mucho más valiosos cuando se convierten en un instante lleno de lujo; compartimos los momentos de gozo y alegría junto a quienes más queremos, con el objeto de llevarnos experiencias verdaderamente únicas. Dejemos la rutina donde debe de ir: atrás. 
 
 Derrama seguridad y estilo, junto a otra producción estelar de CREAMEZ: Mezcalina Dragon, el experto en lujo y deleite.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4901803a-92aa-43e3-86b5-1ea3cd39bc1f.jpg)
-
-# MEZCALES
