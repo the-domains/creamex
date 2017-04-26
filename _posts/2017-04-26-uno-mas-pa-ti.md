@@ -1,17 +1,21 @@
 ---
 inFeed: true
 description: >-
-  Para tener momentos exclusivos, es importante regalarse unos minutos y acudir
-  al llamado de la fiesta.
+  Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe.
+  ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene
+  un exclusivo destilado de Maguey. 
 
 
-  Seguir el MUY mexicano espíritu de la sed de la mala, esa que evoca a una
-  fiesta segura, la cual buscas supere tus expectativas. Haz el momento TUYO.
-  Regálate ese toque que crees que no necesitas, ¡pero cómo ayuda! Haz que otro
-  miembro de nuestra familia de mezcales estrella: Mezlixir, te brinde un poder
-  exclusivo de festejo.
-dateModified: '2017-04-26T21:18:58.629Z'
-datePublished: '2017-04-26T21:18:59.205Z'
+  Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura,
+  cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el
+  área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como
+  meta. 
+
+
+  Parte de nuestra producción estrella, Le Catador, es la guía que todo paladar
+  mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. 
+dateModified: '2017-04-26T21:25:01.998Z'
+datePublished: '2017-04-26T21:25:02.785Z'
 title: MEZCALES
 author: []
 publisher: {}
@@ -24,6 +28,11 @@ url: uno-mas-pa-ti/index.html
 _type: Article
 
 ---
+![Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe. ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene un exclusivo destilado de Maguey. 
+
+Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura, cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como meta. 
+
+Parte de nuestra producción estrella, Le Catador, es la guía que todo paladar mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b521d43-1020-469d-a67f-9c86e6eea08e.jpg)
 ![Para tener momentos exclusivos, es importante regalarse unos minutos y acudir al llamado de la fiesta.
 
 Seguir el MUY mexicano espíritu de la sed de la mala, esa que evoca a una fiesta segura, la cual buscas supere tus expectativas. Haz el momento TUYO. Regálate ese toque que crees que no necesitas, ¡pero cómo ayuda! Haz que otro miembro de nuestra familia de mezcales estrella: Mezlixir, te brinde un poder exclusivo de festejo.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5600e45-e462-4820-80d1-2847997b4cfa.jpg)
