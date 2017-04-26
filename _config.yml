@@ -36,7 +36,7 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
-  - name: CONÓCENOS
+  - name: Conócenos
     id: c528fb1c-5642-42a8-9245-692b1f1af0c9
     type: content
 favicon: null
