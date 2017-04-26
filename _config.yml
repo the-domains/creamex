@@ -36,6 +36,9 @@ navigation:
   - name: Aguacate
     id: a33bc4f3-4fbe-45d8-8683-43c3ac124d9a
     type: content
+  - name: Limón Verde
+    id: 54e8d0a4-4d18-4ac1-bfab-1ac5052db531
+    type: content
 favicon: null
 title: C R E A M E X
 content:
