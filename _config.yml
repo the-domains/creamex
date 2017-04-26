@@ -39,6 +39,9 @@ navigation:
   - name: Limón Verde
     id: 54e8d0a4-4d18-4ac1-bfab-1ac5052db531
     type: content
+  - name: Mango
+    id: 5d2ed917-08c0-44ec-b7e0-015e1882de86
+    type: content
 favicon: null
 title: C R E A M E X
 content:
