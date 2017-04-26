@@ -71,3 +71,6 @@ purpose:
   - type: contact
     url: 'tel:17148734076'
     label: CONTÁCTANOS
+  - type: external
+    url: 'https://www.facebook.com/creamex.mx/'
+    label: 'https://www.facebook.com/creamex.mx/'
