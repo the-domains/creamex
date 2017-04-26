@@ -1,4 +1,3 @@
-layout_spectrum: 0.2167150056924634
 typography_spectrum: 0.12016842523847918
 color:
   brandColors:
@@ -15,6 +14,7 @@ github: true
 opengraph:
   type: '1851567761777374'
   appId: creamex.mx
+layout_spectrum: 0.2167150056924634
 analytics:
   twitter: ''
 author:
@@ -41,6 +41,9 @@ navigation:
     type: content
   - name: M E Z C A L E S
     id: df3e151f-29cd-4312-b348-50e06fb93be5
+    type: content
+  - name: Productos estelares
+    id: 2a989490-6f53-4dbc-b360-8974529b49d5
     type: content
 favicon: null
 title: C R E A M E X
