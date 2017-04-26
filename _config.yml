@@ -67,4 +67,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Agricultura Artesanal
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:17148734076'
+    label: CONTÁCTANOS
