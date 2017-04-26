@@ -1,9 +1,22 @@
 ---
 inFeed: true
-description: Mezcales
-dateModified: '2017-04-26T21:25:41.729Z'
-datePublished: '2017-04-26T21:25:42.262Z'
-title: Mezcal Expertise
+description: >-
+  Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe.
+  ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene
+  un exclusivo destilado de Maguey. 
+
+
+  Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura,
+  cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el
+  área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como
+  meta. 
+
+
+  Parte de nuestra producción estrella, Le Catador, es la guía que todo paladar
+  mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. 
+dateModified: '2017-04-26T21:25:48.817Z'
+datePublished: '2017-04-26T21:25:49.439Z'
+title: Mezcales
 author: []
 publisher: {}
 via: {}
@@ -15,7 +28,7 @@ url: uno-mas-pa-ti/index.html
 _type: Article
 
 ---
-Mezcales
+# Mezcales
 ![Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe. ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene un exclusivo destilado de Maguey. 
 
 Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura, cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como meta. 
