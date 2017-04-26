@@ -40,7 +40,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -57,11 +56,10 @@ purpose:
     url: 'https://www.facebook.com/creamex.mx/'
     label: Síguenos
 github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65804364-877a-4603-96b0-9467d13717e6.png
+favicon: null
 url: 'https://thegrid.ai/creamex/'
 author:
-  name: Karla Lopez
+  name: CREAMEX
   email: marloc.karla@newemotion.mx
   url: 'https://thegrid.ai/creamex/'
 analytics:
