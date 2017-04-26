@@ -32,10 +32,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Piña
-    id: a145047e-79cb-4a68-bf9a-121d749abc96
-    type: content
 favicon: null
 title: C R E A M E X
 content:
