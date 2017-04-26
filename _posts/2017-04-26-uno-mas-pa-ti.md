@@ -14,8 +14,8 @@ description: >-
 
   Parte de nuestra producción estrella, Le Catador, es la guía que todo paladar
   mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. 
-dateModified: '2017-04-26T21:25:48.817Z'
-datePublished: '2017-04-26T21:25:49.439Z'
+dateModified: '2017-04-26T21:25:51.006Z'
+datePublished: '2017-04-26T21:25:51.474Z'
 title: Mezcales
 author: []
 publisher: {}
