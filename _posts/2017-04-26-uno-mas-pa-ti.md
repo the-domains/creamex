@@ -10,8 +10,8 @@ description: >-
   Regálate ese toque que crees que no necesitas, ¡pero cómo ayuda! Haz que otro
   miembro de nuestra familia de mezcales estrella: Mezlixir, te brinde un poder
   exclusivo de festejo.
-dateModified: '2017-04-26T20:51:58.730Z'
-datePublished: '2017-04-26T20:51:59.517Z'
+dateModified: '2017-04-26T20:53:29.671Z'
+datePublished: '2017-04-26T20:53:30.319Z'
 title: MEZCALES
 author: []
 publisher: {}
@@ -31,10 +31,5 @@ Seguir el MUY mexicano espíritu de la sed de la mala, esa que evoca a una fiest
 ![La vida se trata de premiarse. Esos poderosos momentos, son mucho más valiosos cuando se convierten en un instante lleno de lujo; compartimos los momentos de gozo y alegría junto a quienes más queremos, con el objeto de llevarnos experiencias verdaderamente únicas. Dejemos la rutina donde debe de ir: atrás. 
 
 Derrama seguridad y estilo, junto a otra producción estelar de CREAMEZ: Mezcalina Dragon, el experto en lujo y deleite.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4901803a-92aa-43e3-86b5-1ea3cd39bc1f.jpg)
-![Para gustar del Mezcal, no necesitas ser un experto, pero sí a quien sabe. ¿Cómo probar el mejor? Sencillamente, siente cada una de las notas que tiene un exclusivo destilado de Maguey. 
-
-Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura, cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como meta. 
-
-Uno de nuestros resultados más elegante, Le Catador, es la guía que todo paladar mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e5d266-6e81-4051-8923-80caf23a0479.jpg)
 
 # MEZCALES
