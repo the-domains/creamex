@@ -68,9 +68,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Agricultura Artesanal
 purpose:
-  - type: contact
-    url: 'mailto:direccion@creamex.mx'
-    label: Escríbenos
   - type: external
     url: 'https://www.facebook.com/creamex.mx/'
     label: Síguenos
