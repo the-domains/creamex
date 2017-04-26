@@ -10,8 +10,8 @@ description: >-
   Regálate ese toque que crees que no necesitas, ¡pero cómo ayuda! Haz que otro
   miembro de nuestra familia de mezcales estrella: Mezlixir, te brinde un poder
   exclusivo de festejo.
-dateModified: '2017-04-26T21:17:27.735Z'
-datePublished: '2017-04-26T21:17:28.090Z'
+dateModified: '2017-04-26T21:18:58.629Z'
+datePublished: '2017-04-26T21:18:59.205Z'
 title: MEZCALES
 author: []
 publisher: {}
