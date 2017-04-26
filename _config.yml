@@ -1,4 +1,5 @@
-typography_spectrum: 0.9827892014523507
+layout_spectrum: 0.2167150056924634
+typography_spectrum: 0.12016842523847918
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,15 +7,14 @@ color:
     - '#757333'
     - '#C3D2C4'
     - '#47C665'
-  brandStrength: 0.45772910407227974
-  lightness: 0.7857159474253249
-  saturation: 0.9557333943475553
-  rhythmicContrast: 0.9129672539728408
+  brandStrength: 0.5063057421305502
+  lightness: 0.9316103244760064
+  saturation: 0.44948522718955236
+  rhythmicContrast: 0.0003295921683680303
 github: true
 opengraph:
   type: '1851567761777374'
   appId: creamex.mx
-layout_spectrum: 0.27446732007981384
 analytics:
   twitter: ''
 author:
