@@ -39,6 +39,9 @@ navigation:
   - name: CONÓCENOS
     id: c528fb1c-5642-42a8-9245-692b1f1af0c9
     type: content
+  - name: M E Z C A L E S
+    id: df3e151f-29cd-4312-b348-50e06fb93be5
+    type: content
 favicon: null
 title: C R E A M E X
 content:
@@ -50,19 +53,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e93308-60a0-4485-ad69-03b701cecf72.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -74,20 +77,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd4d3ae2-6c4f-4d16-b7d8-0dc606ea1dc9.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
