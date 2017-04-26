@@ -7,16 +7,16 @@ description: >-
   que apenas conocimos, puede detonar experiencias disruptivas, siempre queremos
   uno más y nada menos. Re Chingón, con espíritu alegre de fiesta, es uno de
   nuestros productos de la producción estrella de CREAMEX: El Mezcal.
-dateModified: '2017-04-26T20:46:40.122Z'
-datePublished: '2017-04-26T20:46:40.839Z'
-title: Uno más pa' ti
+dateModified: '2017-04-26T20:47:48.205Z'
+datePublished: '2017-04-26T20:47:48.742Z'
+title: MEZCALES
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-26-uno-mas-pa-ti.md
 starred: false
 datePublishedOriginal: '2017-04-26T20:46:40.839Z'
-sourcePath: _posts/2017-04-26-uno-mas-pa-ti.md
 url: uno-mas-pa-ti/index.html
 _type: Article
 
@@ -30,3 +30,5 @@ Derrama seguridad y estilo, junto a otra producción estelar de CREAMEZ: Mezcali
 Saborear los tintes del buen Mezcal es todo un arte; desde gusto, estructura, cuerpo, se debe sentir su proceso artesanal en el paladar. Un maestro en el área sabe lograr ese toque que los conocedores tienen en la cabeza fijado como meta. 
 
 Uno de nuestros resultados más elegante, Le Catador, es la guía que todo paladar mezcalero necesita para alcanzar un único y exclusivo Mezcal Expertise. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e5d266-6e81-4051-8923-80caf23a0479.jpg)
+
+# MEZCALES
