@@ -33,9 +33,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Mango
-    id: 5d2ed917-08c0-44ec-b7e0-015e1882de86
-    type: content
   - name: Maguey
     id: 1fdeeae8-41b9-4ffa-b6e2-1447eebd0e66
     type: content
