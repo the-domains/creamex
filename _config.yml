@@ -32,10 +32,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: 'https://www.instagram.com/creamex.mx/'
-    id: 1df9a01c-5ba6-472e-b88b-a318661178e2
-    type: content
 favicon: null
 title: C R E A M E X
 content:
