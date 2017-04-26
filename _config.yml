@@ -45,6 +45,9 @@ navigation:
   - name: Maguey
     id: 1fdeeae8-41b9-4ffa-b6e2-1447eebd0e66
     type: content
+  - name: Piña
+    id: a145047e-79cb-4a68-bf9a-121d749abc96
+    type: content
 favicon: null
 title: C R E A M E X
 content:
