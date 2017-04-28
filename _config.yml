@@ -36,6 +36,9 @@ navigation:
   - name: CONÓCENOS
     id: c528fb1c-5642-42a8-9245-692b1f1af0c9
     type: content
+  - name: NUESTROS MERCADOS
+    id: f18d19ff-cda7-49c1-a636-4095307ecf4c
+    type: content
   - name: M E Z C A L E S
     id: df3e151f-29cd-4312-b348-50e06fb93be5
     type: content
@@ -45,9 +48,6 @@ navigation:
   - name: INSTAGRAM
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
-  - name: NUESTROS MERCADOS
-    id: f18d19ff-cda7-49c1-a636-4095307ecf4c
-    type: content
 favicon: null
 title: C R E A M E X
 content:
