@@ -23,7 +23,7 @@ author:
   url: 'https://thegrid.ai/creamex/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/992def5b-1997-4506-bcb7-63d6470f72c7.png
-name: creamex
+name: CREAMEX
 url: 'https://thegrid.ai/creamex/'
 colors:
   brandColors:
@@ -33,9 +33,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: INSTAGRAM
-    url: 'https://www.instagram.com/creamex.mx/'
-    type: external
   - name: CONÓCENOS
     id: c528fb1c-5642-42a8-9245-692b1f1af0c9
     type: content
@@ -45,6 +42,9 @@ navigation:
   - name: PRODUCTOS ESTELARES
     id: 2a989490-6f53-4dbc-b360-8974529b49d5
     type: content
+  - name: INSTAGRAM
+    url: 'https://www.instagram.com/creamex.mx/'
+    type: external
 favicon: null
 title: C R E A M E X
 content:
