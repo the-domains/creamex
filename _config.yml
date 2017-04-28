@@ -33,6 +33,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: CONÓCENOS
+    id: 347b0b1f-a278-49fe-9121-d7bb8da6ddce
+    type: content
   - name: NUESTROS MERCADOS
     id: f18d19ff-cda7-49c1-a636-4095307ecf4c
     type: content
@@ -48,9 +51,6 @@ navigation:
   - name: INSTAGRAM
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
-  - name: CONÓCENOS
-    id: 347b0b1f-a278-49fe-9121-d7bb8da6ddce
-    type: content
 favicon: null
 title: C R E A M E X
 content:
