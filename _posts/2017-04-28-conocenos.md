@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-29T20:37:27.745Z'
-datePublished: '2017-04-29T20:37:28.066Z'
+dateModified: '2017-04-29T20:37:36.620Z'
+datePublished: '2017-04-29T20:37:37.421Z'
 title: CONÓCENOS
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 ### **TENEMOS A MÉXICO EN LA TIERRA, RIQUEZA HECHA AGAVE.**
 
 ## **ANTECEDENTES**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a1d13d1-3a77-46be-aaea-2128d110c6f1.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f9b62faf222dd30d470836e752a068f4/croprotate.png?cropheight=1182&cropwidth=1427&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6a1d13d1-3a77-46be-aaea-2128d110c6f1.png&x=0&y=55)
 
 ---
 
