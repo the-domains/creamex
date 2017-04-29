@@ -22,7 +22,7 @@ author:
   email: marloc.karla@newemotion.mx
   url: 'https://thegrid.ai/creamex/'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/992def5b-1997-4506-bcb7-63d6470f72c7.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dffc9f0-da0d-48e5-84a8-51e2463ea89a.png
 name: CREAMEX
 url: 'https://thegrid.ai/creamex/'
 colors:
@@ -71,7 +71,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
