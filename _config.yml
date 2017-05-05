@@ -48,9 +48,6 @@ navigation:
   - name: FRUTOS
     id: 81dc1769-e5e6-4be7-872e-0e525a3e413e
     type: content
-  - name: RUTAS AGRÍCOLAS
-    id: f18d19ff-cda7-49c1-a636-4095307ecf4c
-    type: content
   - name: INSTAGRAM
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
