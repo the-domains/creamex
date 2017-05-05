@@ -48,12 +48,12 @@ navigation:
   - name: M E Z C A L E S
     id: df3e151f-29cd-4312-b348-50e06fb93be5
     type: content
-  - name: INSTAGRAM
-    url: 'https://www.instagram.com/creamex.mx/'
-    type: external
   - name: FRUTOS
     id: 81dc1769-e5e6-4be7-872e-0e525a3e413e
     type: content
+  - name: INSTAGRAM
+    url: 'https://www.instagram.com/creamex.mx/'
+    type: external
 favicon: null
 title: C R E A M E X
 content:
