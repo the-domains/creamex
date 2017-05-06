@@ -6,16 +6,16 @@ description: >-
   Hotel, Hoteles Iberostar, Hoteles RIU y Hyatt Resorts. En mercado de
   exportación, clientes potenciales son los países de New Zealand, Australia,
   Islas en Asia y Rusia.
-dateModified: '2017-05-06T00:14:09.045Z'
-datePublished: '2017-05-06T00:14:10.036Z'
+dateModified: '2017-05-06T00:14:29.475Z'
+datePublished: '2017-05-06T00:14:29.911Z'
 title: Ruta del Aguacate
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-05-06-ruta-del-aguacate.md
 starred: false
 datePublishedOriginal: '2017-05-06T00:14:10.036Z'
-sourcePath: _posts/2017-05-06-ruta-del-aguacate.md
 url: ruta-del-aguacate/index.html
 _type: Article
 
