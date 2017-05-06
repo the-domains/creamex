@@ -51,6 +51,9 @@ navigation:
   - name: INSTAGRAM
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
+  - name: RUTAS AGRÍCOLAS
+    id: 45240bf4-c516-4a92-9cd6-fe252c22eb7b
+    type: content
 favicon: null
 title: C R E A M E X
 content:
