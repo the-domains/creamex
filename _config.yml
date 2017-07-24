@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.0003295921683680303
 github: true
 opengraph:
-  type: '1851567761777374'
+  type: ''
   appId: creamex.mx
 layout_spectrum: 0.2167150056924634
 analytics:
@@ -20,7 +20,7 @@ analytics:
 author:
   name: CREAMEX
   email: marloc.karla@newemotion.mx
-  url: 'http://thegrid.ai/creamex'
+  url: 'http://creamex.mx'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dffc9f0-da0d-48e5-84a8-51e2463ea89a.png
 name: CREAMEX
@@ -54,7 +54,8 @@ navigation:
   - name: INSTAGRAM
     url: 'https://www.instagram.com/creamex.mx/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/774a6985-2918-4116-b32f-d774f2ed7168.png
 title: C R E A M E X
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -83,9 +84,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Agricultura Artesanal
 purpose:
-  - type: contact
-    url: 'tel:17148734076'
-    label: CONTÁCTANOS
   - type: external
-    url: 'https://www.facebook.com/creamex.mx/'
-    label: FACEBOOK
+    url: 'http://facebook.com/creamex.mx'
+    label: 'http://facebook.com/creamex.mx'
+  - type: email
+    url: 'mailto:direccion@creamex.mx'
+    label: CONTACT
