@@ -85,7 +85,7 @@ content:
 description: Agricultura Artesanal
 purpose:
   - type: external
-    url: 'http://facebook.com/creamex.mx'
+    url: 'https://www.facebook.com/creamex.mx/'
     label: FACEBOOK
   - type: email
     url: 'mailto:direccion@creamex.mx'
