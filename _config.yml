@@ -85,8 +85,8 @@ content:
 description: Agricultura Artesanal
 purpose:
   - type: external
-    url: 'https://m.facebook.com/creamex.mx/'
-    label: Facebook
+    url: 'https://facebook.com/creamex.mx/'
+    label: 'https://facebook.com/creamex.mx/'
   - type: email
     url: 'mailto:direccion@creamex.mx'
     label: Asesor Comercial
